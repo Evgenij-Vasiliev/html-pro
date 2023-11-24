@@ -2,3 +2,43 @@ body {
   background-color: #98FB98;
   font-family: 'Roboto', sans-serif;
 }
+
+header {
+  border: 2px solid blue;
+}
+
+nav {
+  border: 2px solid yellow;
+}
+
+ul {
+  border: 2px solid white;
+}
+
+li {
+  border: 2px solid orange;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+main {
+  border: 2px solid red;
+}
+
+section {
+  border: 2px solid blue;
+}
+
+figure {
+  border: 2px solid green
+}
+
+footer {
+  border: 2px solid black;
+}
